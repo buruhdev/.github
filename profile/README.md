@@ -2,4 +2,4 @@
 
 ## About Buruhdev
 
-[Buruhdev](https://github.com/buruhdev) crafts web applications & open source packages in the Laravel ecosystem.
+[Buruhdev](https://github.com/buruhdev) crafts web applications, courses and open source packages especially in the Laravel ecosystem and web developments.
